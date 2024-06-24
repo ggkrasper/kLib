@@ -1,0 +1,4 @@
+name: kLib
+version: '${project.version}'
+main: net.krasper.klib.KLib
+api-version: '1.20'

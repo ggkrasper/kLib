@@ -1,0 +1,7 @@
+invalid-msg: "&cInvalid message. Contact an administrator"
+invalid-usage: "&cInvalid usage!"
+no-permission: "&cYou don't have permission to execute this command!"
+gamemode:
+  change-target: "&7You have been put in gamemode &b<gamemode> &7by &b<executer>&7!"
+  change-executer-other: "&7You put &b<target> &7in gamemode &b<gamemode>&7!"
+  change-executer-self: "&7You are now in gamemode &b<gamemode>&7!"
